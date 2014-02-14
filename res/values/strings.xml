@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AppCounter</string>
+    <string name="alert_start_title">Start Log Daemon?</string>
+    <string name="alert_start_message">Delete previous log if you start log daemon.\nDo you want to start log daemon?</string>
+    <string name="alert_start_negativeButton">Cancel</string>
+    <string name="alert_start_positiveButton">Start</string>
+    <string name="alert_stop_title">Stop Log Daemon?</string>
+    <string name="alert_stop_message">Do you want to stop log daemon?</string>
+    <string name="alert_stop_negativeButton">Cancel</string>
+    <string name="alert_stop_positiveButton">Stop</string>
+    <string name="countTime_noData">Don\'t have Log data.</string>
+</resources>
